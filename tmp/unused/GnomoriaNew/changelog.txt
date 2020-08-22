@@ -1,0 +1,129 @@
+Changelog:
+
+Consolidated palette and shading across all wooden furniture/blocks
+
+Updated palette and cleaned up tiling of grass block set
+Updated palette and texture of thatch block set
+Updated pine tree art
+Updated orange icon art
+
+Updated/cleaned up goblin tunnel art
+Updated/cleaned up four poster bed art
+Updated palette and texture for yak, llama and emu
+Added texture to beds, cupboards and drawers
+
+New wooden support block art
+New ogre and two headed ogre art
+New grapevine art
+New steam engine art
+New strawberry plant art
+New cotton plant art
+New wheelbarrow art
+New ceramic tile art
+New smooth stone block art
+New statue art
+
+-Unimplemented-
+
+New blocks/furniture/etc
+
+2 square tile hearth 
+2 piece sarcophagus set
+Crypt
+Grindstone
+Stone wheel icon
+Treasure chest (open and closed)
+2 sets of headstones for graves + open grave floor
+Fountain
+Hospital table
+Operating table
+Crenellation
+Castle wall tops
+Decorative wall shield
+Rounded thatch slope block
+Throne
+Oven
+Bookcase
+Office desk
+Archery targets
+Baby gnome crib
+Tapestry
+
+Watermelon + icon
+Pumpkin + icon
+Bamboo shoots + icon
+Sugar cane + icon
+
+Metal cage
+Punji pit
+Bloodied spike trap
+Camo floor trap
+Drawbridge
+Fence gates/doors
+Cannon
+
+
+1 set of flower world fluff
+2 sets of 4 mushrooms
+Tons of new/alternate workshop table fluff
+
+New hairstyles/clothing
+
+15 new hairstyles
+Doctor cap 
+Bone armor set
+Chitin armor set
+Heavy armor set
+Open face helmet
+Gentleman's suit set
+Peg leg 
+Held mug
+Crown
+New blunderbuss art
+Commander hat
+Chef hat
+Big glasses
+Welders mask
+Viking helmet
+Viking helmet (horned)
+Santa hat
+Pith heelmet
+Fez
+Beret
+Baseball cap
+Conquistador helmet
+Fedora
+Pirate hat
+Tricorn hat
+Ushanka
+
+NPCs
+
+Sheep
+Pig (pink)
+Pig (black)
+Kunekune
+Panda
+2 alternate beetle pupa
+Cow
+Woodlouse
+Alternate zombie palette
+Gnome baby
+
+ETC
+
+Wagon
+Rowboat
+Disabled/maimed thought bubble status
+Alarmed thought bubble status
+
+
+
+
+
+
+
+
+
+
+
